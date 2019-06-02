@@ -103,7 +103,7 @@ class lectureShow extends Component {
             </div>
             <div className="lecture-show-btn-group">
               <a
-                href="#"
+                href="/#"
                 onClick={e => this.deleteLecture(e)}
                 className="content-show-delete-btn"
               >
